@@ -20,8 +20,7 @@ title: The User Office Project
 email: fredrik.bolmsten@ess.eu
 description: >- # this means to ignore newlines until "baseurl:"
   The User Office Project is aimed at creating a open source software that 
-  handles proposals, visits and time allocation for a facility. The project aim
-  is to create a software that is highly configurable and can therefore be used by 
+  handles proposals, visits and time allocation for a facility. The software created is highly configurable and can therefore be used by 
   any neutron or photon source. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

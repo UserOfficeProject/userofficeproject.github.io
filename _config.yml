@@ -16,19 +16,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: The User Office Project
+email: fredrik.bolmsten@ess.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The User Office Project is aimed at creating a open source software that 
+  handles proposals, visits and time allocation for a facility. The project aim
+  is to create a software that is highly configurable and can therefore be used by 
+  any neutron or photon source. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: lone-wolf-theme
 plugins:
   - jekyll-feed
 

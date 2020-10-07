@@ -9,6 +9,8 @@ layout: default
 
 # Step-by-step guide for creating new functionality
 
+![Image edit metadata](img/uo_overview.png)
+
 Use this document to understand how different parts of UserOffice code base is connected together. 
 
 For this example we will implement an imaginary feature, we will
